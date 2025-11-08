@@ -24,6 +24,5 @@ This project was made as a part of my course project, might not be the best vers
 ---
 
 ## ⚙️ Setup
-
-```bash
-pip install -r requirements.txt
+1. Create a virtual-env and install jupyter-notebook init
+2. Run the first cell of the notebook to install all dependencies
